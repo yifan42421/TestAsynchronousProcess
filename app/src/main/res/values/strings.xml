@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestAsynchronousProcess</string>
+    <string name="btntext_asynctask">AsyncTask</string>
+    <string name="btntext_intentservice">IntentService</string>
+    <string name="btntext_intentservice2">IntentService2</string>
+    <string name="btntext_loader">Loader</string>
+    <string name="btntext_jobscheduler">JobScheduler</string>
+    <string name="btntext_gcmnetworkmanager">GcmNetworkManager</string>
+    <string name="btntext_countdowntimer">CountdownTimer</string>
+    <string name="btntext_threads">Threads</string>
+    <string name="btntext_handlerthread">HandlerThread</string>
+    <string name="btntext_futuretask">FutureTask</string>
+    <string name="btntext_addtask">Add Task</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.byc.testasynchronousprocess.MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btn_asynctask"
+            style="@style/main_btn"
+            android:text="@string/btntext_asynctask" />
+
+        <Button
+            android:id="@+id/btn_intentservice"
+            style="@style/main_btn"
+            android:text="@string/btntext_intentservice" />
+
+        <Button
+            android:id="@+id/btn_intentservice2"
+            style="@style/main_btn"
+            android:text="@string/btntext_intentservice2" />
+
+        <Button
+            android:id="@+id/btn_loader"
+            style="@style/main_btn"
+            android:text="@string/btntext_loader" />
+
+        <Button
+            android:id="@+id/btn_jobscheduler"
+            style="@style/main_btn"
+            android:text="@string/btntext_jobscheduler" />
+
+        <Button
+            android:id="@+id/btn_gcmnetworkmanager"
+            style="@style/main_btn"
+            android:text="@string/btntext_gcmnetworkmanager" />
+
+        <Button
+            android:id="@+id/btn_countdowntimer"
+            style="@style/main_btn"
+            android:text="@string/btntext_countdowntimer" />
+
+        <Button
+            android:id="@+id/btn_thread"
+            style="@style/main_btn"
+            android:text="@string/btntext_threads" />
+
+        <Button
+            android:id="@+id/btn_handlerthread"
+            style="@style/main_btn"
+            android:text="@string/btntext_handlerthread" />
+
+        <Button
+            android:id="@+id/btn_futuretask"
+            style="@style/main_btn"
+            android:text="@string/btntext_futuretask" />
+
+    </ScrollView>
+</LinearLayout>

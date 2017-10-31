@@ -1,0 +1,261 @@
+[7528:3432:1031/105819:INFO:AppRunner.cpp(611)] Begin run process geeplayer, -runfrom openfile "D:\Android\AndroidStudioProjects\TestAsynchronousProcess\device-2017-10-31-105642.mp4", mainplugin is mainPlugin
+[7528:3432:1031/105819:INFO:AppRunner.cpp(617)] ProductName is GeePlayer1
+[7528:3432:1031/105819:INFO:ChannelManager.cpp(1219)] create connection thread
+[7528:3432:1031/105819:INFO:AppRunner.cpp(661)] apppluginbase version is 5.1.3.13
+[7528:3432:1031/105819:INFO:UIlib.cpp(192)] quilib: version is 5.1.3.9
+[7528:3432:1031/105819:INFO:serviceManager.cpp(508)] mainprocessisrunning key is set as 1
+[7528:3432:1031/105819:INFO:serviceManager.cpp(629)] create local service plugin PluginServerStatePlugin
+[7528:3432:1031/105819:INFO:serviceManager.cpp(687)] plugin PluginServerStatePlugin DoPluginInit
+[7528:3432:1031/105819:INFO:serviceManager.cpp(1272)] repository parse over
+[7528:3432:1031/105819:INFO:DomainManager.cpp(244)] create global domain channel list::QyClient.exe
+[7528:3432:1031/105819:INFO:ChannelManager.cpp(504)] create list::QyClient.exe:: process object
+[7528:3432:1031/105819:INFO:LpcProcess.cpp(242)] create default channel GeePlayer1::geeplayer.exe::::list::QyClient.exe::::
+[7528:3432:1031/105820:INFO:UIManager.cpp(383)] quilib:call set resouce path, path is c:\program files (x86)\iqiyi video\geeplayer\3.0.40.3591\skin
+[7528:3432:1031/105821:INFO:UIMarkup.cpp(395)] quilib:Open Resource failed, Path is c:\program files (x86)\iqiyi video\geeplayer\3.0.40.3591\skin\StyleTable.xml, last error is0
+[7528:3432:1031/105914:INFO:AppRunner.cpp(720)] loop exit geeplayer call main plugin DestoryPluginEntry
+[7528:3432:1031/105914:INFO:PluginDevelopAssistant.cpp(115)] real plugin mainPlugin call DestroyPlugin
+[7528:3432:1031/105915:INFO:IPlugin.cpp(31)] destruct plugin mainPlugin
+[7528:3432:1031/105915:INFO:serviceManager.cpp(1353)] mainPlugin plugin had destroy by DestructPlugin
+[7528:3432:1031/105915:INFO:serviceManager.cpp(1906)] DestructManager begin
+[7528:3432:1031/105915:INFO:IPlugin.cpp(31)] destruct plugin PluginServerStatePlugin
+[7528:3432:1031/105915:INFO:PluginDevelopAssistant.cpp(295)] real plugin PluginServerStatePlugin call DestroyPlugin
+[7528:3432:1031/105915:INFO:serviceManager.cpp(1353)] PluginServerStatePlugin plugin had destroy by DestructPlugin
+[7528:3432:1031/105915:INFO:serviceManager.cpp(1759)] DeleteLeftPlugins begin
+[7528:3432:1031/105915:INFO:serviceManager.cpp(1822)] DeleteLeftPlugins end
+[7528:3432:1031/105915:INFO:serviceManager.cpp(508)] mainprocessisrunning key is set as 0
+[7528:3432:1031/105915:INFO:AppRunner.cpp(735)] close mutex of process geeplayer
+[7528:3432:1031/105915:INFO:AppRunner.cpp(743)] run process geeplayer end
+[4052:10144:1031/110108:INFO:AppRunner.cpp(611)] Begin run process geeplayer, -runfrom openimage "D:\Android\AndroidStudioProjects\TestAsynchronousProcess\IntentService2-test.gif", mainplugin is mainPlugin
+[4052:10144:1031/110108:INFO:AppRunner.cpp(617)] ProductName is GeePlayer1
+[4052:10144:1031/110108:INFO:ChannelManager.cpp(1219)] create connection thread
+[4052:10144:1031/110108:INFO:AppRunner.cpp(661)] apppluginbase version is 5.1.3.13
+[4052:10144:1031/110108:INFO:UIlib.cpp(192)] quilib: version is 5.1.3.9
+[4052:10144:1031/110108:INFO:serviceManager.cpp(508)] mainprocessisrunning key is set as 1
+[4052:10144:1031/110108:INFO:serviceManager.cpp(629)] create local service plugin PluginServerStatePlugin
+[4052:10144:1031/110108:INFO:serviceManager.cpp(687)] plugin PluginServerStatePlugin DoPluginInit
+[4052:10144:1031/110108:INFO:serviceManager.cpp(1272)] repository parse over
+[4052:10144:1031/110108:INFO:DomainManager.cpp(244)] create global domain channel list::QyClient.exe
+[4052:10144:1031/110108:INFO:ChannelManager.cpp(504)] create list::QyClient.exe:: process object
+[4052:10144:1031/110108:INFO:LpcProcess.cpp(242)] create default channel GeePlayer1::geeplayer.exe::::list::QyClient.exe::::
+[4052:10144:1031/110108:INFO:UIManager.cpp(383)] quilib:call set resouce path, path is c:\program files (x86)\iqiyi video\geeplayer\3.0.40.3591\skin
+[4052:10144:1031/110108:INFO:UIMarkup.cpp(395)] quilib:Open Resource failed, Path is c:\program files (x86)\iqiyi video\geeplayer\3.0.40.3591\skin\StyleTable.xml, last error is0
+[4052:10144:1031/110108:INFO:UIDlgBuilder.cpp(512)] quilib:create root control failed
+[4052:10144:1031/110108:INFO:UIDlgBuilder.cpp(512)] quilib:create root control failed
+[4052:10144:1031/110108:INFO:UIDlgBuilder.cpp(512)] quilib:create root control failed
+[4052:10144:1031/110108:INFO:UIDlgBuilder.cpp(512)] quilib:create root control failed
+[4052:10144:1031/110108:INFO:UIDlgBuilder.cpp(512)] quilib:create root control failed
+[4052:10144:1031/110108:INFO:UIDlgBuilder.cpp(512)] quilib:create root control failed
+[4052:10144:1031/110112:INFO:AppRunner.cpp(720)] loop exit geeplayer call main plugin DestoryPluginEntry
+[4052:10144:1031/110112:INFO:PluginDevelopAssistant.cpp(115)] real plugin mainPlugin call DestroyPlugin
+[4052:10144:1031/110112:INFO:IPlugin.cpp(31)] destruct plugin mainPlugin
+[4052:10144:1031/110112:INFO:serviceManager.cpp(1353)] mainPlugin plugin had destroy by DestructPlugin
+[4052:10144:1031/110112:INFO:serviceManager.cpp(1906)] DestructManager begin
+[4052:10144:1031/110112:INFO:IPlugin.cpp(31)] destruct plugin PluginServerStatePlugin
+[4052:10144:1031/110112:INFO:PluginDevelopAssistant.cpp(295)] real plugin PluginServerStatePlugin call DestroyPlugin
+[4052:10144:1031/110112:INFO:serviceManager.cpp(1353)] PluginServerStatePlugin plugin had destroy by DestructPlugin
+[4052:10144:1031/110112:INFO:serviceManager.cpp(1759)] DeleteLeftPlugins begin
+[4052:10144:1031/110112:INFO:serviceManager.cpp(1822)] DeleteLeftPlugins end
+[4052:10144:1031/110112:INFO:serviceManager.cpp(508)] mainprocessisrunning key is set as 0
+[4052:10144:1031/110112:INFO:AppRunner.cpp(735)] close mutex of process geeplayer
+[4052:10144:1031/110112:INFO:AppRunner.cpp(743)] run process geeplayer end
+[3416:6520:1031/110433:INFO:AppRunner.cpp(611)] Begin run process geeplayer, -runfrom openfile "D:\Android\AndroidStudioProjects\TestAsynchronousProcess\IntentService2-test.mp4", mainplugin is mainPlugin
+[3416:6520:1031/110433:INFO:AppRunner.cpp(617)] ProductName is GeePlayer1
+[3416:6520:1031/110433:INFO:ChannelManager.cpp(1219)] create connection thread
+[3416:6520:1031/110433:INFO:AppRunner.cpp(661)] apppluginbase version is 5.1.3.13
+[3416:6520:1031/110433:INFO:UIlib.cpp(192)] quilib: version is 5.1.3.9
+[3416:6520:1031/110433:INFO:serviceManager.cpp(508)] mainprocessisrunning key is set as 1
+[3416:6520:1031/110433:INFO:serviceManager.cpp(629)] create local service plugin PluginServerStatePlugin
+[3416:6520:1031/110433:INFO:serviceManager.cpp(687)] plugin PluginServerStatePlugin DoPluginInit
+[3416:6520:1031/110433:INFO:serviceManager.cpp(1272)] repository parse over
+[3416:6520:1031/110433:INFO:DomainManager.cpp(244)] create global domain channel list::QyClient.exe
+[3416:6520:1031/110433:INFO:ChannelManager.cpp(504)] create list::QyClient.exe:: process object
+[3416:6520:1031/110433:INFO:LpcProcess.cpp(242)] create default channel GeePlayer1::geeplayer.exe::::list::QyClient.exe::::
+[3416:6520:1031/110433:INFO:UIManager.cpp(383)] quilib:call set resouce path, path is c:\program files (x86)\iqiyi video\geeplayer\3.0.40.3591\skin
+[3416:6520:1031/110433:INFO:UIMarkup.cpp(395)] quilib:Open Resource failed, Path is c:\program files (x86)\iqiyi video\geeplayer\3.0.40.3591\skin\StyleTable.xml, last error is0
+[3416:6520:1031/110440:INFO:UIDlgBuilder.cpp(512)] quilib:create root control failed
+[5388:3884:1031/110519:INFO:AppRunner.cpp(611)] Begin run process geeplayer, -runfrom openfile "D:\Android\AndroidStudioProjects\TestAsynchronousProcess\IntentService2-test.mp4", mainplugin is mainPlugin
+[5388:3884:1031/110519:INFO:AppRunner.cpp(617)] ProductName is GeePlayer2
+[5388:3884:1031/110519:INFO:ChannelManager.cpp(1219)] create connection thread
+[5388:3884:1031/110519:INFO:AppRunner.cpp(661)] apppluginbase version is 5.1.3.13
+[5388:3884:1031/110519:INFO:UIlib.cpp(192)] quilib: version is 5.1.3.9
+[5388:3884:1031/110519:INFO:serviceManager.cpp(508)] mainprocessisrunning key is set as 1
+[5388:3884:1031/110519:INFO:serviceManager.cpp(629)] create local service plugin PluginServerStatePlugin
+[5388:3884:1031/110519:INFO:serviceManager.cpp(515)] service recordPluginServerStatePlugin is dirty old runPID:3416 , right pid:5388 , arrPeerInfo Size:0
+[5388:3884:1031/110519:INFO:serviceManager.cpp(525)] service table: name:PluginServerStatePlugin runpid:3416 plugin:00446D88, 
+[5388:3884:1031/110519:INFO:serviceManager.cpp(687)] plugin PluginServerStatePlugin DoPluginInit
+[5388:3884:1031/110519:INFO:serviceManager.cpp(1272)] repository parse over
+[5388:3884:1031/110519:INFO:DomainManager.cpp(244)] create global domain channel list::QyClient.exe
+[5388:3884:1031/110519:INFO:ChannelManager.cpp(504)] create list::QyClient.exe:: process object
+[5388:3884:1031/110519:INFO:LpcProcess.cpp(242)] create default channel GeePlayer2::geeplayer.exe::::list::QyClient.exe::::
+[5388:3884:1031/110519:INFO:DomainManager.cpp(244)] create global domain channel GeePlayer1::geeplayer.exe
+[5388:3884:1031/110519:INFO:ChannelManager.cpp(504)] create GeePlayer1::geeplayer.exe:: process object
+[5388:3884:1031/110519:INFO:LpcProcess.cpp(242)] create default channel GeePlayer1::geeplayer.exe::::GeePlayer2::geeplayer.exe::::
+[3416:7788:1031/110519:INFO:ChannelManager.cpp(613)] on connection incomming  PipeName=GeePlayer1::geeplayer.exe::::GeePlayer2::geeplayer.exe::::,ProductNameInner=GeePlayer1
+[3416:7788:1031/110519:INFO:ChannelManager.cpp(504)] create GeePlayer2::geeplayer.exe:: process object
+[3416:7788:1031/110519:INFO:LpcProcess.cpp(242)] create default channel GeePlayer1::geeplayer.exe::::GeePlayer2::geeplayer.exe::::
+[3416:7788:1031/110519:INFO:ChannelManager.cpp(1122)] connect pipe GeePlayer1::geeplayer.exe::::GeePlayer2::geeplayer.exe::::
+[5388:3884:1031/110519:INFO:AppRunner.cpp(720)] loop exit geeplayer call main plugin DestoryPluginEntry
+[5388:3884:1031/110519:INFO:PluginDevelopAssistant.cpp(115)] real plugin mainPlugin call DestroyPlugin
+[5388:3884:1031/110519:INFO:IPlugin.cpp(31)] destruct plugin mainPlugin
+[5388:3884:1031/110519:INFO:serviceManager.cpp(1353)] mainPlugin plugin had destroy by DestructPlugin
+[5388:3884:1031/110519:INFO:serviceManager.cpp(1906)] DestructManager begin
+[5388:3884:1031/110519:INFO:IPlugin.cpp(31)] destruct plugin PluginServerStatePlugin
+[5388:3884:1031/110519:INFO:PluginDevelopAssistant.cpp(295)] real plugin PluginServerStatePlugin call DestroyPlugin
+[5388:3884:1031/110519:INFO:serviceManager.cpp(1353)] PluginServerStatePlugin plugin had destroy by DestructPlugin
+[5388:3884:1031/110519:INFO:serviceManager.cpp(1759)] DeleteLeftPlugins begin
+[5388:3884:1031/110519:INFO:serviceManager.cpp(1822)] DeleteLeftPlugins end
+[5388:3884:1031/110519:INFO:serviceManager.cpp(508)] mainprocessisrunning key is set as 0
+[5388:3884:1031/110519:INFO:AppRunner.cpp(735)] close mutex of process geeplayer
+[3416:6368:1031/110519:INFO:ChannelManager.cpp(1024)] process geeplayer.exe crashed, error is 109
+[5388:3884:1031/110519:INFO:AppRunner.cpp(743)] run process geeplayer end
+[3416:6520:1031/110526:INFO:UIDlgBuilder.cpp(512)] quilib:create root control failed
+[3416:6520:1031/110526:INFO:UIDlgBuilder.cpp(512)] quilib:create root control failed
+[3416:6520:1031/110526:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_1000
+[3416:6520:1031/110534:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_1000
+[3416:6520:1031/110535:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_10869
+[3416:6520:1031/110535:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_10946
+[3416:6520:1031/110535:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_11023
+[3416:6520:1031/110535:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_11255
+[3416:6520:1031/110535:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_11409
+[3416:6520:1031/110535:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_11640
+[3416:6520:1031/110535:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_11948
+[3416:6520:1031/110535:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_12411
+[3416:6520:1031/110535:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_15649
+[3416:6520:1031/110535:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_18193
+[3416:6520:1031/110535:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_20968
+[3416:6520:1031/110536:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_26827
+[3416:6520:1031/110536:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_32146
+[3416:6520:1031/110536:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_35615
+[3416:6520:1031/110536:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_39547
+[3416:6520:1031/110536:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_41551
+[3416:6520:1031/110536:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_43401
+[3416:6520:1031/110536:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_46177
+[3416:6520:1031/110538:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_16882
+[3416:6520:1031/110538:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_16805
+[3416:6520:1031/110538:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_16728
+[3416:6520:1031/110538:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_16651
+[3416:6520:1031/110538:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_16574
+[3416:6520:1031/110538:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_16497
+[3416:6520:1031/110538:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_16188
+[3416:6520:1031/110538:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_15649
+[3416:6520:1031/110539:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_15032
+[3416:6520:1031/110539:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_14570
+[3416:6520:1031/110539:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_14107
+[3416:6520:1031/110539:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_13799
+[3416:6520:1031/110539:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_13567
+[3416:6520:1031/110539:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_13336
+[3416:6520:1031/110539:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_13105
+[3416:6520:1031/110540:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_13028
+[3416:6520:1031/110540:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_12951
+[3416:6520:1031/110540:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_12874
+[3416:6520:1031/110540:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_12796
+[3416:6520:1031/110540:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_12719
+[3416:6520:1031/110540:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_12565
+[3416:6520:1031/110540:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_12103
+[3416:6520:1031/110540:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_11023
+[3416:6520:1031/110540:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_10021
+[3416:6520:1031/110540:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_9405
+[3416:6520:1031/110540:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_9019
+[3416:6520:1031/110541:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_8325
+[3416:6520:1031/110541:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_7709
+[3416:6520:1031/110541:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_7554
+[3416:6520:1031/110541:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_7323
+[3416:6520:1031/110541:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_6783
+[3416:6520:1031/110541:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_6244
+[3416:6520:1031/110541:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_5858
+[3416:6520:1031/110541:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_5087
+[3416:6520:1031/110541:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_4162
+[3416:6520:1031/110541:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_2929
+[3416:6520:1031/110541:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_1773
+[3416:6520:1031/110541:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_1233
+[3416:6520:1031/110541:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_231
+[3416:6520:1031/110541:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_0
+[3416:6520:1031/110545:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_0
+[5640:3268:1031/110739:INFO:AppRunner.cpp(611)] Begin run process geeplayer, -runfrom openfile "D:\Android\AndroidStudioProjects\TestAsynchronousProcess\device-2017-10-31-110725.mp4", mainplugin is mainPlugin
+[5640:3268:1031/110739:INFO:AppRunner.cpp(617)] ProductName is GeePlayer3
+[5640:3268:1031/110739:INFO:ChannelManager.cpp(1219)] create connection thread
+[5640:3268:1031/110739:INFO:AppRunner.cpp(661)] apppluginbase version is 5.1.3.13
+[5640:3268:1031/110739:INFO:UIlib.cpp(192)] quilib: version is 5.1.3.9
+[5640:3268:1031/110739:INFO:serviceManager.cpp(508)] mainprocessisrunning key is set as 1
+[5640:3268:1031/110739:INFO:serviceManager.cpp(629)] create local service plugin PluginServerStatePlugin
+[5640:3268:1031/110739:INFO:serviceManager.cpp(687)] plugin PluginServerStatePlugin DoPluginInit
+[5640:3268:1031/110739:INFO:serviceManager.cpp(1272)] repository parse over
+[5640:3268:1031/110739:INFO:DomainManager.cpp(244)] create global domain channel list::QyClient.exe
+[5640:3268:1031/110739:INFO:ChannelManager.cpp(504)] create list::QyClient.exe:: process object
+[5640:3268:1031/110739:INFO:LpcProcess.cpp(242)] create default channel GeePlayer3::geeplayer.exe::::list::QyClient.exe::::
+[5640:3268:1031/110739:INFO:DomainManager.cpp(244)] create global domain channel GeePlayer1::geeplayer.exe
+[5640:3268:1031/110739:INFO:ChannelManager.cpp(504)] create GeePlayer1::geeplayer.exe:: process object
+[5640:3268:1031/110739:INFO:LpcProcess.cpp(242)] create default channel GeePlayer1::geeplayer.exe::::GeePlayer3::geeplayer.exe::::
+[3416:7788:1031/110739:INFO:ChannelManager.cpp(613)] on connection incomming  PipeName=GeePlayer1::geeplayer.exe::::GeePlayer3::geeplayer.exe::::,ProductNameInner=GeePlayer1
+[3416:7788:1031/110739:INFO:ChannelManager.cpp(504)] create GeePlayer3::geeplayer.exe:: process object
+[3416:7788:1031/110739:INFO:LpcProcess.cpp(242)] create default channel GeePlayer1::geeplayer.exe::::GeePlayer3::geeplayer.exe::::
+[3416:7788:1031/110739:INFO:ChannelManager.cpp(1122)] connect pipe GeePlayer1::geeplayer.exe::::GeePlayer3::geeplayer.exe::::
+[5640:3268:1031/110739:INFO:AppRunner.cpp(720)] loop exit geeplayer call main plugin DestoryPluginEntry
+[5640:3268:1031/110739:INFO:PluginDevelopAssistant.cpp(115)] real plugin mainPlugin call DestroyPlugin
+[5640:3268:1031/110739:INFO:IPlugin.cpp(31)] destruct plugin mainPlugin
+[5640:3268:1031/110739:INFO:serviceManager.cpp(1353)] mainPlugin plugin had destroy by DestructPlugin
+[5640:3268:1031/110739:INFO:serviceManager.cpp(1906)] DestructManager begin
+[5640:3268:1031/110739:INFO:IPlugin.cpp(31)] destruct plugin PluginServerStatePlugin
+[5640:3268:1031/110739:INFO:PluginDevelopAssistant.cpp(295)] real plugin PluginServerStatePlugin call DestroyPlugin
+[5640:3268:1031/110739:INFO:serviceManager.cpp(1353)] PluginServerStatePlugin plugin had destroy by DestructPlugin
+[5640:3268:1031/110739:INFO:serviceManager.cpp(1759)] DeleteLeftPlugins begin
+[5640:3268:1031/110739:INFO:serviceManager.cpp(1822)] DeleteLeftPlugins end
+[5640:3268:1031/110739:INFO:serviceManager.cpp(508)] mainprocessisrunning key is set as 0
+[5640:3268:1031/110739:INFO:AppRunner.cpp(735)] close mutex of process geeplayer
+[3416:9440:1031/110739:INFO:ChannelManager.cpp(1024)] process geeplayer.exe crashed, error is 109
+[5640:3268:1031/110739:INFO:AppRunner.cpp(743)] run process geeplayer end
+[3416:6520:1031/110743:INFO:UIDlgBuilder.cpp(512)] quilib:create root control failed
+[3416:6520:1031/110743:INFO:UIDlgBuilder.cpp(512)] quilib:create root control failed
+[3416:6520:1031/110744:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_3000
+[3416:6520:1031/110746:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_3000
+[3416:6520:1031/110746:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_2913
+[3416:6520:1031/110746:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_2871
+[3416:6520:1031/110746:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_2828
+[3416:6520:1031/110746:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_2786
+[3416:6520:1031/110746:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_2744
+[3416:6520:1031/110746:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_2702
+[3416:6520:1031/110746:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_2575
+[3416:6520:1031/110746:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_1646
+[3416:6520:1031/110746:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_1308
+[3416:6520:1031/110747:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_422
+[3416:6520:1031/110747:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_211
+[3416:6520:1031/110747:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_0
+[3416:6520:1031/110749:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_12835
+[3416:6520:1031/110749:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_13004
+[3416:6520:1031/110749:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_13215
+[3416:6520:1031/110749:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_13468
+[3416:6520:1031/110749:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_13764
+[3416:6520:1031/110749:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_14101
+[3416:6520:1031/110749:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_14397
+[3416:6520:1031/110749:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_14693
+[3416:6520:1031/110749:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_14988
+[3416:6520:1031/110749:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_15241
+[3416:6520:1031/110750:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_15495
+[3416:6520:1031/110750:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_15706
+[3416:6520:1031/110750:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_15917
+[3416:6520:1031/110750:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_16044
+[3416:6520:1031/110750:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_16212
+[3416:6520:1031/110750:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_16339
+[3416:6520:1031/110750:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_16466
+[3416:6520:1031/110750:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_16592
+[3416:6520:1031/110750:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_16846
+[3416:6520:1031/110750:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_17184
+[3416:6520:1031/110751:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_24488
+[3416:6520:1031/110751:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_24910
+[3416:6520:1031/110751:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_25248
+[3416:6520:1031/110751:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_25417
+[3416:6520:1031/110751:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_25459
+[3416:6520:1031/110824:INFO:UIRender.cpp(1160)] --UIRender DrawImage return false, hBitmap==NULL, sImageName:gifpreview_25459
+[3416:6520:1031/110836:INFO:AppRunner.cpp(720)] loop exit geeplayer call main plugin DestoryPluginEntry
+[3416:6520:1031/110836:INFO:PluginDevelopAssistant.cpp(115)] real plugin mainPlugin call DestroyPlugin
+[3416:6520:1031/110837:INFO:IPlugin.cpp(31)] destruct plugin mainPlugin
+[3416:6520:1031/110837:INFO:serviceManager.cpp(1353)] mainPlugin plugin had destroy by DestructPlugin
+[3416:6520:1031/110837:INFO:serviceManager.cpp(1906)] DestructManager begin
+[3416:6520:1031/110837:INFO:IPlugin.cpp(31)] destruct plugin PluginServerStatePlugin
+[3416:6520:1031/110837:INFO:PluginDevelopAssistant.cpp(295)] real plugin PluginServerStatePlugin call DestroyPlugin
+[3416:6520:1031/110837:INFO:serviceManager.cpp(1353)] PluginServerStatePlugin plugin had destroy by DestructPlugin
+[3416:6520:1031/110837:INFO:serviceManager.cpp(1759)] DeleteLeftPlugins begin
+[3416:6520:1031/110837:INFO:serviceManager.cpp(1822)] DeleteLeftPlugins end
+[3416:6520:1031/110837:INFO:serviceManager.cpp(508)] mainprocessisrunning key is set as 0
+[3416:6520:1031/110837:INFO:AppRunner.cpp(735)] close mutex of process geeplayer
+[3416:6520:1031/110837:INFO:AppRunner.cpp(743)] run process geeplayer end
